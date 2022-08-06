@@ -11,7 +11,7 @@ The purpose of this project is to gather Citibike sharing data for the month of 
 - Python Pandas
 - Tableau
 
-### Executoin: 
+### Execution: 
 
 1. After creating the DataFrame, we were able to change the format, using the following code:
 
